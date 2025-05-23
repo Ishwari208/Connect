@@ -2,7 +2,7 @@ const { default: axios } = require("axios");
 
 //created axio client to create endpoint
 const axiosClient=axios.create({
-    baseURL:'https://connect-eta-seven.vercel.app/'
+    baseURL:'http://localhost:8000'
 });
 
 const createUser=(data)=>axiosClient.post('/user',data)
