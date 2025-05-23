@@ -13,7 +13,7 @@
             "headers": [
                 {
                     "key": "Access-Control-Allow-Origin",
-                    "value": "https://connect-eta-seven.vercel.app/"
+                    "value": "https://connect-neon-alpha.vercel.app/"
                 },
                 {
                     "key": "Access-Control-Allow-Methods",
